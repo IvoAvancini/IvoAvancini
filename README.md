@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💻 <b>Engenharia de Software</b> • 🧪 <b>Qualidade de Software</b> • 🤖 <b>IA</b> • ⚙️ <b>Automação</b>
+💻 <b>Software Engineering</b> • 🧪 <b>Testing</b> • 🤖 <b>IA</b> • ⚙️ <b>Automation</b>
 </p>
 
 <!-- GIFs do topo (lado a lado) -->
