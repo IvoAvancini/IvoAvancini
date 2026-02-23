@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋, eu sou José Ivo Avancini Moura</h2>
+<h2 align="center">Olá 👋, Ivo Aqui</h2>
 
 <p align="center">
   💻 <b>Engenharia de Software</b> • 🧪 <b>Qualidade de Software</b> • 🤖 <b>IA</b> • ⚙️ <b>Automação</b>
