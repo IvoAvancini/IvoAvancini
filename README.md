@@ -1,4 +1,8 @@
-<h2 align="center">Olá 👋, Ivo Aqui</h2>
+<h2 align="center">Olá 👋, Ivo Aqui 😎</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ani-github/animegifs/gh-pages/death-note/lookingaround.gif" width="300" />
+</p>
 
 <p align="center">
   💻 <b>Engenharia de Software</b> • 🧪 <b>Qualidade de Software</b> • 🤖 <b>IA</b> • ⚙️ <b>Automação</b>
@@ -17,20 +21,16 @@
   <a href="https://www.linkedin.com/in/jos%C3%A9-ivo-avancini-moura-5b2879248/">
     <img src="https://img.shields.io/badge/LinkedIn-Jos%C3%A9%20Ivo%20Avancini-blue?style=for-the-badge&logo=linkedin" />
   </a>
-
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
-<p>
-  <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="170" alt="anime" />
-</p>
 
 - 💼 Atualmente atuo como **Suporte Técnico N2** (ambiente corporativo)
 - 🧠 Evoluindo com foco em **IA**, **Automação** e **Qualidade de Software**
 - 🔎 Vivência com **análise de sistemas**, **investigação de incidentes** e **validação de integrações via API**
-- 🎯 Objetivo: atuar como **Engenheiro de Software**, construindo soluções com foco em **automação, IA e confiabilidade**
+- 🎯 Objetivo: atuar como **Engenharia de Software**, construindo soluções com foco em **automação, IA e confiabilidade**
 
 ---
 
@@ -67,14 +67,22 @@
 
 ---
 
-## 📌 Roadmap (o que vem por aí)
+<!-- Roadmap + GIF (lado a lado) -->
+<img align="right"
+     src="https://ani-github.github.io/animegifs/full-metal-alchemist/AWESOME.gif"
+     width="300"
+     alt="gif" />
 
-- [ ] Criar **1 projeto de automação com Python** (arquivos + API)
-- [ ] Criar **1 projeto Selenium** (fluxo real: login/checkout/testes)
-- [ ] Criar **1 mini projeto IA** (chatbot simples com documentos)
-- [ ] Organizar repositórios com **README + prints + passo a passo**
+### 📌 Roadmap (o que vem por aí)
 
-> Quando esses projetos estiverem no ar, eu volto a colocar **Stats** aqui 😄
+- [ ] Criar 1 projeto de automação com Python (arquivos + API)
+- [ ] Criar 1 projeto Selenium (fluxo real: login/checkout/testes)
+- [ ] Criar 1 mini projeto IA (chatbot simples com documentos)
+- [ ] Organizar repositórios com README + prints + passo a passo
+
+> Quando esses projetos estiverem no ar, eu volto a colocar Stats aqui 😄
+
+<br clear="right"/>
 
 ---
 
